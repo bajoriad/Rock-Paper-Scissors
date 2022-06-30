@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/divyanga/Desktop/EECS 183 Project 2/Project 2 - Code/Project 2 - Code",
+      "program": "/Users/divyanga/Desktop/EECS 183 Project 2/Project 2 - Code/Project 2 - Code/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
